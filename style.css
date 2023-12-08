@@ -1,0 +1,21 @@
+body{
+    margin: 20px;
+}
+
+.passport{
+    width: 150px;
+}
+
+.card{
+    width: 600px;
+    margin: auto; 
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: #2b2839;
+    background-color: lightblue;
+    border-bottom: 10px solid #d8cefe;
+    font-family: sans-serif;
+
+}
